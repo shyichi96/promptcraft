@@ -1,0 +1,4 @@
+{
+  "name": "summarization",
+  "template": "Hãy tóm tắt đoạn văn sau:\n\n{{input}}\n\nTóm tắt:"
+}
