@@ -1,0 +1,4 @@
+{
+  "name": "code_generation",
+  "template": "Viết mã Python để thực hiện tác vụ sau:\n\n{{input}}\n\nMã nguồn:"
+}
